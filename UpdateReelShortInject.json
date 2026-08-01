@@ -1,8 +1,8 @@
 {
   "ReelShort": {
-    "version": "3.9.50",
+    "version": "4.0.00",
     "message": "<b>Waktu Pemakaian Anda Telah Habis<br>Hubungi Admin Untuk Perpanjang Waktu.",
     "link_download": "https://api.whatsapp.com/send?phone=+62 083115443939&text=Hallo%20Admin%20Saya%20Mau%20Perpanjang%20Waktu%20Mod%20ReelShort%20Ini.",
-    "version_code": "3.9.50"
+    "version_code": "4.0.00"
   }
 }
